@@ -70,8 +70,8 @@ The Kia EV3 Long Range, with dimensions of 4300 mm in length, 1850 mm in width, 
 
 The Kia EV3 Long Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 235/55 tires on 19" rims
-- 255/45 tires on 20" rims
+- 215/60 tires on 19" rims
+- 215/50 tires on 20" rims
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
